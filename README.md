@@ -12,4 +12,4 @@ Maker Media GmbH
 
 Ergänzend zum Artikel in der Make 4/24 finden Sie hier die Beispielprojekte für Microchip Studio, ein Case für den MPLAB-Snap zum 3D-Drucken sowie die Pinout-Grafik des Debuggers, die Sie sich ebenfalls ausdrucken und rückseitig auf das Case kleben können.
 
-Den vollständigen Artikel kann man in der **[Make-Ausgabe 4/24](https://www.heise.de/select/make)** lesen.
+Den vollständigen Artikel kann man in der **[Make-Ausgabe 4/24](https://www.heise.de/select/make/2024/4)** lesen.
